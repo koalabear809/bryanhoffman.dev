@@ -13,7 +13,7 @@
    <a href="/">Home</a><a href=/blog.html>Blog</a>
   </nav>
   <div id=content>
-   <div>
+   <div class=post>
     <h1>Technology Looking for a Problem</h1>
     <h4>Don&#39;t build a cart if you don&#39;t have a horse.</h4>
     <div>
@@ -65,6 +65,14 @@ nav a:hover{
 div#content{
     padding: 10px;
 }</style>
-  <style></style>
+  <style>div.post{
+    padding: 50px;
+}
+
+@media (max-width: 700px){
+    div.post{
+        padding: 10px;
+    }
+}</style>
  </body>
 </html>
