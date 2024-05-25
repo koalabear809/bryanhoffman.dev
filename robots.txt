@@ -1,4 +1,3 @@
-User-agent: *
-Allow: /
+# https://bryanhoffman.dev
 
-Sitemap: https://www.bryanhoffman.dev/sitemap.txt
+User-agent: *
