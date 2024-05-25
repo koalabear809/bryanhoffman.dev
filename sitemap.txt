@@ -1,5 +1,0 @@
-index.html
-blog.html
-blog/minimalism.html
-blog/technology-looking-for-a-problem.html
-blog/finish-what-you-start.html
